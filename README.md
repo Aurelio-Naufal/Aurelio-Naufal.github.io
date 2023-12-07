@@ -1,1 +1,9 @@
-# Aurelio-Naufal.github.io
+# Data Scientist
+
+### Education
+sda
+
+### Organization Experience
+sad
+
+### Projects
