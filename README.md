@@ -4,4 +4,4 @@ I am an undergraduate statistics student who is passionate about diving into the
 ## Projects
 ### Hoax Data Classification Text Analytics
 Novemeber 2023
-Worked with 3 people to Analyzed hoax data from mafindo by determining the best model, apply data analysis, and visualize the text data
+Worked with 3 other people to Analyzed hoax data from mafindo by visualizing the text data, determining the best model and classifying the text data based on the model. The project can be accessed [here](https://github.com/Aurelio-Naufal/Case-Study-Data-Mining-Aplikasi-Model-Klasifikasi-Kelompok-8)
