@@ -13,11 +13,15 @@ Worked with 3 other people to Analyzed hoax data from mafindo by visualizing the
 ### Exploratory Data Analysis For Property Data in Indonesia
 October 2023
 
+![project2](./assets/img/Property-Data.png)
+
 Worked with 3 other people, applied Exploratory Data Analysis and searched for insights from the property data in Indonesia in order to answer the question, Which city has the best opportunity to build a property business? The project can be accessed [here](https://github.com/Aurelio-Naufal/Case-Study-Data-Mining-EDA-Data-Property-Indonesia)
 
 
 ### Airport System Database
 June 2023
+
+![project3](./assets/img/Database-Airport.png)
 
 Worked with 4 other people to create a database for airport system with SQLite. The project can be accessed [here](https://github.com/Aurelio-Naufal/Project-Database-Sistem-Bandara/blob/main/Laporan%20Akhir%20Database%20Kelompok%204.pdf)
 
@@ -25,21 +29,29 @@ Worked with 4 other people to create a database for airport system with SQLite. 
 ### Forecasting TLKM Stock Price
 June 2023
 
+![project4](./assets/img/Forecast-TLKM.png)
+
 Worked with 2 other people, applied time series analysis to forecast TLKM stock price with ARIMA Model using R programming language. The project can be accessed [here](https://github.com/Aurelio-Naufal/Forecasting-TLKM-stock-price-with-ARIMA-model)
 
 
 ### Implementation of Cox Proportional Hazards in Heart Failure Survival Modeling
 May 2023
 
+![project5](./assets/img/Cox-PH.png)
+
 Worked with 5 other people, implemented cox proportional hazards survival model in heart failure data. The project can be accessed [here](https://github.com/Aurelio-Naufal/Case-Study-Cox-Regression)
 
 ### Used Car Price Prediction Model
 December 2022
+
+![project6](./assets/img/Heatmap.png)
 
 Worked with 4 other people, predicted used car price with linear model and searched for insights. The project can be accessed [here](https://github.com/Aurelio-Naufal/Project-Linear-Model-Used-Car-Price-Prediction-Model)
 
 
 ### Social Media Analytics about Formula E topic in Indonesia
 June 2022
+
+![project7](./assets/img/FormulaE.jpeg)
 
 Worked with 3 other people, analyzed the sentiment of public about Formula E topic in Indonesia during the event. The social media data is obtained from Twitter (Currently called X platform) API. The project can be accessed [here](https://github.com/Aurelio-Naufal/Project-Social-Media-Analytics)
