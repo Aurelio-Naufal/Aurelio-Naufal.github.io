@@ -7,25 +7,30 @@ Novemeber 2023
 
 Worked with 3 other people to Analyzed hoax data from mafindo by visualizing the text data, determining the best model and classifying the text data based on the model. The project can be accessed [here](https://github.com/Aurelio-Naufal/Case-Study-Data-Mining-Aplikasi-Model-Klasifikasi-Kelompok-8)
 
+
 ### Exploratory Data Analysis For Property Data in Indonesia
 October 2023
 
 Worked with 3 other people, applied Exploratory Data Analysis and searched for insights from the property data in Indonesia in order to answer the question, Which city has the best opportunity to build a property business? The project can be accessed [here](https://github.com/Aurelio-Naufal/Case-Study-Data-Mining-EDA-Data-Property-Indonesia)
+
 
 ### Airport System Database
 June 2023
 
 Worked with 4 other people to create a database for airport system with SQLite. The project can be accessed [here](https://github.com/Aurelio-Naufal/Project-Database-Sistem-Bandara/blob/main/Laporan%20Akhir%20Database%20Kelompok%204.pdf)
 
+
 ### Forecasting #TLKM Stock Price
 June 2023
 
 Worked with 2 other people, applied time series analysis to forecast TLKM stock price with ARIMA Model using R programming language. The project can be accessed [here](https://github.com/Aurelio-Naufal/Forecasting-TLKM-stock-price-with-ARIMA-model)
 
+
 ### Used Car Price Prediction Model
 December 2022
 
 Worked with 4 other people, predicted used car price with linear model and searched for insights. The project can be accessed [here](https://github.com/Aurelio-Naufal/Project-Linear-Model-Used-Car-Price-Prediction-Model)
+
 
 ### Social Media Analytics about Formula E topic in Indonesia
 June 2022
