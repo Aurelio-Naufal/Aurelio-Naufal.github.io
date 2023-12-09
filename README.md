@@ -20,7 +20,7 @@ June 2023
 Worked with 4 other people to create a database for airport system with SQLite. The project can be accessed [here](https://github.com/Aurelio-Naufal/Project-Database-Sistem-Bandara/blob/main/Laporan%20Akhir%20Database%20Kelompok%204.pdf)
 
 
-### Forecasting #TLKM Stock Price
+### Forecasting TLKM Stock Price
 June 2023
 
 Worked with 2 other people, applied time series analysis to forecast TLKM stock price with ARIMA Model using R programming language. The project can be accessed [here](https://github.com/Aurelio-Naufal/Forecasting-TLKM-stock-price-with-ARIMA-model)
