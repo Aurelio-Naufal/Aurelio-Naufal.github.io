@@ -26,6 +26,11 @@ June 2023
 Worked with 2 other people, applied time series analysis to forecast TLKM stock price with ARIMA Model using R programming language. The project can be accessed [here](https://github.com/Aurelio-Naufal/Forecasting-TLKM-stock-price-with-ARIMA-model)
 
 
+### Implementation of Cox Proportional Hazards in Heart Failure Survival Modeling
+May 2023
+
+Worked with 5 other people, implemented cox proportional hazards survival model in heart failure data. The project can be accessed [here](https://github.com/Aurelio-Naufal/Case-Study-Cox-Regression)
+
 ### Used Car Price Prediction Model
 December 2022
 
