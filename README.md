@@ -58,11 +58,11 @@ Worked with 3 other people, analyzed the sentiment of public about Formula E top
 
 
 ## Certificates
-# TOEFL ITP Score 580
+### TOEFL ITP Score 580
 ![certif1](./assets/img/SertifToefl.jpg)
 
-# SQL Certification From Linkedin Learning
+### SQL Certification From Linkedin Learning
 ![certif2](./assets/img/SertifSQL.jpg)
 
-# Small Business Owner Certification From Linkedin Learning
+### Small Business Owner Certification From Linkedin Learning
 ![certif3](./assets/img/SertifSmallBusiness.jpg)
