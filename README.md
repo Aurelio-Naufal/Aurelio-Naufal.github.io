@@ -55,3 +55,14 @@ June 2022
 ![project7](./assets/img/FormulaE.jpeg)
 
 Worked with 3 other people, analyzed the sentiment of public about Formula E topic in Indonesia during the event. The social media data is obtained from Twitter (Currently called X) API. The project can be accessed [here](https://github.com/Aurelio-Naufal/Project-Social-Media-Analytics)
+
+
+## Certificates
+# TOEFL ITP Score 580
+![certif1](./assets/img/SertifToefl.jpg)
+
+# SQL Certification From Linkedin Learning
+![certif2](./assets/img/SertifSQL.jpg)
+
+# Small Business Owner Certification From Linkedin Learning
+![certif3](./assets/img/SertifSmallBusiness.jpg)
