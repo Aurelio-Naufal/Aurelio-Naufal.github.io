@@ -54,4 +54,4 @@ June 2022
 
 ![project7](./assets/img/FormulaE.jpeg)
 
-Worked with 3 other people, analyzed the sentiment of public about Formula E topic in Indonesia during the event. The social media data is obtained from Twitter (Currently called X platform) API. The project can be accessed [here](https://github.com/Aurelio-Naufal/Project-Social-Media-Analytics)
+Worked with 3 other people, analyzed the sentiment of public about Formula E topic in Indonesia during the event. The social media data is obtained from Twitter (Currently called X) API. The project can be accessed [here](https://github.com/Aurelio-Naufal/Project-Social-Media-Analytics)
