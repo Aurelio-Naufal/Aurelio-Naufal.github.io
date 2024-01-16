@@ -2,6 +2,13 @@
 I am an undergraduate statistics student at University of Indonesia who is passionate about diving into the world of data and analysis. With a keen interest in learning, I am always seeking new opportunities to expand my skillset and broaden my horizons. My ability to quickly grasp complex concepts allows me to efficiently adapt to challenges, ensuring that I stay ahead in the fast-paced realm of statistics. I am dedicated to continuously grow myself, both personally and professionally. My academic foundation as well as my enthusiasm for learning allows me to effectively contribute and excel in any data-driven role.
 
 ## Projects
+### Paper Replication - Application of ARIMA-GARCH model in forecasting IDR to dollar exchange rate in 2017-2022
+December 2023
+
+![project0](./assets/img/Replikasi-Paper.png)
+
+Replicated a paper about Application of ARIMA-GARCH model in forecasting IDR to dollar exchange rate in 2017-2022. Even though the data has been taken from the same source and over the same time period exactly as stated in the previous literature study, There are slightly difference in values resulting a slight difference in model estimation. The project can be accessed [here](https://github.com/Aurelio-Naufal/Application-of-ARIMA-GARCH-model-in-forecasting-IDR-to-dollar-exchange-rate-in-2017-2022)
+
 ### Hoax Data Classification Text Analytics
 Novemeber 2023
 
