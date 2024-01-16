@@ -7,7 +7,7 @@ December 2023
 
 ![project0](./assets/img/Replikasi-Paper.png)
 
-Replicated a paper about Application of ARIMA-GARCH model in forecasting IDR to dollar exchange rate in 2017-2022. Even though the data has been taken from the same source and over the same time period exactly as stated in the previous literature study, There are slightly difference in values resulting a slight difference in model estimation. The project can be accessed [here](https://github.com/Aurelio-Naufal/Application-of-ARIMA-GARCH-model-in-forecasting-IDR-to-dollar-exchange-rate-in-2017-2022)
+Replicated a paper about Application of ARIMA-GARCH model in forecasting IDR to dollar exchange rate in 2017-2022. Even though the data has been taken from the same source and over the same time period exactly as stated in the previous literature study, There are few differences in values resulting a slight difference in model estimation. The project can be accessed [here](https://github.com/Aurelio-Naufal/Application-of-ARIMA-GARCH-model-in-forecasting-IDR-to-dollar-exchange-rate-in-2017-2022)
 
 ### Hoax Data Classification Text Analytics
 Novemeber 2023
