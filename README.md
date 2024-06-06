@@ -4,6 +4,12 @@ I am an undergraduate statistics student at University of Indonesia who is passi
 My github link : https://github.com/Aurelio-Naufal
 
 ## Projects
+
+### Transaction and Market Basket Analysis at The Daily Foodhall Menara Astra and Istana Sahid Sudirman
+May 2024
+
+Internship's innovation project at PT Swalayan Sukses Abadi (The Foodhall) under the management of PT Mitra Adiperkasa Tbk. Made an analysis on various aspect from 4 months (Jan - Apr 2024) transaction data at the two foodhall's minimarket, Daily Foodhall Menara Astra and Daily Foodhall Istana Sahid Sudirman. Visualized, compared, and analyzed the revenue generated, most purchased products, and transaction date (to find which month, day and time are the busiest in terms of transaction traffics) on both stores to create new insights and recommendation. Performed market basket analysis to find which products are great to sold together and create promo recommendation, also compare both stores in terms of sales in order to improve one or another. Unfortunately, because the data is confidential, this project can't be uploaded.
+
 ### Paper Replication - Application of ARIMA-GARCH model in forecasting IDR to dollar exchange rate in 2017-2022
 December 2023
 
