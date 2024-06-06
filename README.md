@@ -5,7 +5,7 @@ My github link : https://github.com/Aurelio-Naufal
 
 ## Projects
 
-### Transaction and Market Basket Analysis at The Daily Foodhall Menara Astra and Istana Sahid Sudirman
+### Transactional Data and Market Basket Analysis at The Daily Foodhall Menara Astra and Istana Sahid Sudirman
 May 2024
 
 Internship's innovation project at PT Swalayan Sukses Abadi (The Foodhall) which is under the management of PT Mitra Adiperkasa Tbk. Made an analysis on 4 months (January - April 2024) transactional data at the two foodhall's minimarkets, Daily Foodhall Menara Astra and Daily Foodhall Istana Sahid Sudirman. Visualized, compared, and analyzed the revenue generated, most purchased items, transaction date (to find which month, day, and time are the busiest in terms of transaction traffic), and other aspects on both stores to create new insights and recommendations. Performed market basket analysis to see which products are related and great to sell together, then proposed promo or bundle recommendations on some items to improve sales. Unfortunately, because the data is confidential, this project can't be uploaded.
