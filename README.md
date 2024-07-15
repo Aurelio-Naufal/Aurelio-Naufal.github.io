@@ -76,6 +76,15 @@ Worked with 3 other people, analyzed the sentiment of public about Formula E top
 ### TOEFL ITP Score 580
 ![certif1](./assets/img/SertifToefl.jpg)
 
+### Microsoft Office Specialist - Excel 2019 Associate
+![certif4](./assets/img/Excel2019Associate.jpg)
+
+### Anaconda Python for Data Science Professional Certificate
+![certif5](./assets/img/CertificateAnaconda.jpg)
+
+### Career Essentials in Data Analysis by Microsoft and LinkedIn
+![certif6](./assets/img/CertificateDataAnalysisbyMicrosoft.jpg)
+
 ### SQL Certification From Linkedin Learning
 ![certif2](./assets/img/SertifSQL.jpg)
 
